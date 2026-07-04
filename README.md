@@ -72,6 +72,14 @@ My GitHub is centered around TypeScript, JavaScript, React, Node.js, WebSockets,
 - **[Medium](https://github.com/nikhilachale/Medium)** - Medium-style full-stack publishing app.
 - **[R3F](https://github.com/nikhilachale/R3F)** - React Three Fiber experiments.
 
+## Open Source Contributions
+
+### AgentWrapper / agent-orchestrator
+
+- **Merged PR [#2411](https://github.com/AgentWrapper/agent-orchestrator/pull/2411)** - Context-aware agent spawning with agent catalog and auth preflight for the Go CLI.
+- **Merged PR [#2338](https://github.com/AgentWrapper/agent-orchestrator/pull/2338)** - Safer canonical branch handoff for orchestrator replacement flows.
+- **Merged PR [#2309](https://github.com/AgentWrapper/agent-orchestrator/pull/2309)** - Agent catalog/auth API and safer orchestrator switching across backend and frontend.
+
 ## GitHub Stats
 
 <div align="center">
